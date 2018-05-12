@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '32665'
     url: http://www.gutenberg.org/2009/agents/32665
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27388#Sociologia-Chinesa--Autoplastia
 gutenberg_issued: '2008-12-02'
 gutenberg_type: Text
 identifiers:
