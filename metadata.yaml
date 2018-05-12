@@ -1,0 +1,34 @@
+_repo: Sociologia-Chinesa--Autoplastia_27388
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cinatti, Demétrio
+    alias: Cinatti, Demetrio
+    gutenberg_agent_id: '32666'
+    url: http://www.gutenberg.org/2009/agents/32666
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macgowan, Daniel Jerome
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '32665'
+    url: http://www.gutenberg.org/2009/agents/32665
+description: ''
+gutenberg_issued: '2008-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27388'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abnormalities, Human'
+- !lcsh 'Surgery, Unnecessary'
+- !lcsh 'Deformities, Artificial'
+- !lcc 'DS'
+title: 'Sociologia Chinesa: Autoplastia'
+url: http://www.gutenberg.org/ebooks/27388
